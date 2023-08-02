@@ -1,4 +1,4 @@
-#InternPE Internship Tasks
+# InternPE Internship Tasks
 
 ![InternPE Logo](https://media.licdn.com/dms/image/C4E0BAQGs7EmZ0yQMpQ/company-logo_200_200/0/1661493099261?e=1698883200&v=beta&t=-nRuxZ6FrklvMylMLl9Mh146ju2QtjibpoivvVP3u_Q)
 
@@ -20,9 +20,9 @@ Feel free to explore the individual directories for each task to access the sour
 
 If you have any questions, feedback, or would like to get in touch with me, please feel free to reach out through the following channels:
 
-- Email: pandeyankur55143@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pandeyankur1324/)
+- Email: nitinsinghkharayat2002@gmail.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nitin-singh-b63926236)
 
-Thank you for visiting this repository and for your interest in my InternPE internship tasks!
+Thank you for visiting this repository and for your interest in my tasks!
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
