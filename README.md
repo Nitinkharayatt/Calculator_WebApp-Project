@@ -11,8 +11,8 @@ Welcome to the repository for my InternPE internship tasks! This repository cont
 ## Tasks Completed
 
 1. Task 1: Calculator
-   - Description: Simple Calculator WebApp.
-   - Technologies used: HTML, CSS, JAVASCRIPT.
+   - Description: Calculator WebApp.
+   - Technologies used: HTML, CSS, JAVASCRIPT, Github.
 
 ## Additional Information
 
